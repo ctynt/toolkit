@@ -1,0 +1,31 @@
+{
+  "name": "@ctynt/toolkit_core",
+  "version": "1.0.0",
+  "description": "鸿蒙核心工具集",
+  "main": "Index.ets",
+  "author": "ctynt",
+  "license": "Apache-2.0",
+  "keywords": [
+    "harmonyos",
+    "toolkit",
+    "utils"
+  ],
+  "repository": "https://github.com/ctynt/toolkit.git",
+  "homepage": "https://github.com/ctynt/toolkit",
+  "bugs": {
+    "url": "https://github.com/ctynt/toolkit/issues",
+    "email": "2597704619@@qq.com"
+  },
+  "engines": {
+    "harmonyos": ">=5.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "files": [
+    "Index.ets",
+    "src/**/*",
+    "README.md",
+    "CHANGELOG.md",
+    "LICENSE"
+  ]
+}
